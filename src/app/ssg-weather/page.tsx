@@ -14,7 +14,7 @@ const SSGWeather = async () => {
   return (
     <> 
     <Navbar/>
-    <div className="min-h-[600px] flex flex-col items-center justify-center bg-gray-100 p-6">
+    <div className="min-h-[600px] flex flex-col items-center justify-center  p-6">
       <h1 className="text-2xl font-bold text-gray-800 mb-4 text-center">SSG Weather (Pakistan, Karachi)</h1>
        <div className="bg-white p-6 rounded-lg shadow-md text-gray-700">
         <p className='flex'>
